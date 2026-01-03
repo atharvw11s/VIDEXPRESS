@@ -1,0 +1,8 @@
+{
+  "name": "VidExpress Pro - YouTube M3",
+  "description": "A high-fidelity YouTube carbon copy built with Material 3 Expressive design, featuring real YouTube data and Gemini-powered insights.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
